@@ -18,3 +18,5 @@ export {
   registerAnimation,
   initializeRegistryWithDefinitions,
 } from './registry';
+export { RUN_ANIMATION } from './createAnimatableComponent';
+
